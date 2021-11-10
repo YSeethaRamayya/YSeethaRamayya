@@ -1,0 +1,8 @@
+{
+	"bucket_name":"test-data-project",
+	"inbound_key":"test-data-folder/input-folder/",
+	"input_file_name":"data[4][63][84][3].tsv",
+	"output_bucket":"s3a://test-data-project",
+	"output_key":"test-data-folder/output-folder/",
+	"output_filename":"SearchKeywordPerformace.tab"
+}
